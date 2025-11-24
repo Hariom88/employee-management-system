@@ -1,0 +1,12 @@
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\exception\EmailAlreadyExistsException.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\exception\ErrorDetails.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\service\EmployeeService.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\EmsApplication.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\exception\GlobalExceptionHandler.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\entity\Employee.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\repository\EmployeeRepository.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\exception\ResourceNotFoundException.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\utils\AppConstants.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\controller\EmployeeController.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\dto\EmployeeDTO.java
+C:\Users\HARIC\Desktop\Employee management system\src\main\java\com\example\ems\service\impl\EmployeeServiceImpl.java
